@@ -1,7 +1,7 @@
 Shader "Yukatayu/Silhouette" {
 	Properties {
 		_SilhouetteColor("Silhouette Color", Color) = (0, 0, 0, 1)
-		_RimColor("Silhouette Color", Color) = (1, 0, 0, 1)
+		_RimColor("Rim Color", Color) = (1, 0, 0, 1)
 		_Gradient("Gradient", Range(1, 32)) = 12
 	}
 
